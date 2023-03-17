@@ -1,0 +1,29 @@
+@model LeagueDetail
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<h1>@Model.Name</h1>
+<h4>Delete League</h4>
+<hr/>
+
+<d1 class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Id)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Id)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Name)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Name)
+    </dd>
+</d1>
+
+<form asp-action="Delete">
+    <div class="Deletename"><input type="submit" value="Delete" class="btn btn-danger"/></div>
+    <div class="Index"><a asp-action="Index">Back To List</a></div>
+</form>

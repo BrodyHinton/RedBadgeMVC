@@ -1,0 +1,42 @@
+@model TeamCreate
+
+
+@{
+    ViewData["Title"]= "Create Team";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="Post">
+            <div class="form=group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name"class="form-control"/>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="LeagueId" class="control-label"></label>
+                <input asp-for="LeagueId"class="form-control"/>
+                <span asp-validation-for="LeagueId" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="Wins" class="control-label"></label>
+                <input asp-for="Wins"class="form-control"/>
+                <span asp-validation-for="Wins" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="Loses" class="control-label"></label>
+                <input asp-for="Loses"class="form-control"/>
+                <span asp-validation-for="Loses" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="Championships" class="control-label"></label>
+                <input asp-for="Championships"class="form-control"/>
+                <span asp-validation-for="Championships" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <input type="submit" value="Create" class="btn btn-primary"
+            </div>
+        </form>
+    </div>
+</div>

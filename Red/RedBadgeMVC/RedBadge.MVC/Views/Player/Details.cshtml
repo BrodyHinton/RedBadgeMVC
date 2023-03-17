@@ -1,0 +1,40 @@
+@model PlayerDetail
+
+@{
+    ViewData["Title"] = @Model.Name;
+}
+
+<h1>@Model.Name</h1>
+<h4>Player Details</h4>
+<hr/>
+
+<d1 class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Id)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Id)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Name)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Name)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.TeamId)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.TeamId)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Championships)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Championships)
+    </dd>
+</d1>
+
+<div class="backtolist">
+    <div class="Index"></div><a asp-action="Index">Back To List</a></div>
+</div>

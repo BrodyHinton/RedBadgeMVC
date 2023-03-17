@@ -1,0 +1,17 @@
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Services.deps.json
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Services.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Services.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Data.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Models.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Models.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\bin\Release\net7.0\RedBadge.Data.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.csproj.AssemblyReference.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.AssemblyInfoInputs.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.AssemblyInfo.cs
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.csproj.CoreCompileInputs.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.csproj.CopyComplete
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\refint\RedBadge.Services.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\RedBadge.Services.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Services\obj\Release\net7.0\ref\RedBadge.Services.dll

@@ -1,0 +1,14 @@
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\bin\Debug\net7.0\RedBadge.Data.deps.json
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\bin\Debug\net7.0\RedBadge.Data.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\bin\Debug\net7.0\RedBadge.Data.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.csproj.AssemblyReference.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.AssemblyInfoInputs.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.AssemblyInfo.cs
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.csproj.CoreCompileInputs.cache
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\refint\RedBadge.Data.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.pdb
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\ref\RedBadge.Data.dll
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\bin\Debug\net7.0\RedBadge.Data.runtimeconfig.json
+C:\Users\owner\desktop\efa\elevenfiftyprojects\red\RedBadgeMVC\RedBadge.Data\obj\Debug\net7.0\RedBadge.Data.genruntimeconfig.cache

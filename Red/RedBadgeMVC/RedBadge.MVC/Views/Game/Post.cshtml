@@ -1,0 +1,37 @@
+@model GameCreate
+
+
+@{
+    ViewData["Title"]= "Create Game";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="Post">
+            <div class="form=group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date"class="form-control"/>
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="LeagueName" class="control-label"></label>
+                <input asp-for="LeagueName"class="form-control"/>
+                <span asp-validation-for="LeagueName" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="HomeTeamId" class="control-label"></label>
+                <input asp-for="HomeTeamId"class="form-control"/>
+                <span asp-validation-for="HomeTeamId" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <label asp-for="AwayTeamId" class="control-label"></label>
+                <input asp-for="AwayTeamId"class="form-control"/>
+                <span asp-validation-for="AwayTeamId" class="text-danger"></span>
+            </div>
+            <div class="form=group">
+                <input type="submit" value="Create" class="btn btn-primary"
+            </div>
+        </form>
+    </div>
+</div>
